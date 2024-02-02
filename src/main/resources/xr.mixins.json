@@ -1,0 +1,15 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "cn.ksmcbrigade.XR.mixin",
+  "compatibilityLevel": "JAVA_8",
+  "refmap": "xr.refmap.json",
+  "mixins": [
+  ],
+  "client": [
+    "BlockMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
